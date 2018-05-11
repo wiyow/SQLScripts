@@ -1,3 +1,7 @@
+--- 2018
+--- 2019
+--- 2020
+
 INSERT INTO [HISReport].[dbo].[rpt_scd_chargesDUMP]
 			   ([item_desc]
 			   ,[charge_date]
